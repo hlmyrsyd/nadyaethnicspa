@@ -1,5 +1,5 @@
 # Nadya Ethnic Spa
-Website of Nadya Ethnic Spa &copy;hlmyrsyd 2023
+Website of Nadya Ethnic Spa &copy;hlmyrsyd 2023<br>
 <img align='center' src='https://github.com/hlmyrsyd/thereadmestuff/blob/main/0%25.svg' />
 ***
 ## Website overview
